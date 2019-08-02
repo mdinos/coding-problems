@@ -1,3 +1,3 @@
-# Daily coding problem
+# Coding problems
 
 Should be fairly obvious.
