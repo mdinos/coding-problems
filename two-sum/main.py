@@ -1,4 +1,8 @@
-def two_sum(xs, target_value):
+def two_sum(xs: list, target_value: int):
+    """
+        Return whether or not there are two numbers in the list that add up to k.
+        :returns: bool
+    """
     for i, x in enumerate(xs):
         combinations = [x + y for j, y in enumerate(xs) if j != i]
         print('combinations: {}'.format(combinations))
