@@ -5,7 +5,6 @@ def two_sum(xs: list, target_value: int):
     """
     for i, x in enumerate(xs):
         combinations = [x + y for j, y in enumerate(xs) if j != i]
-        print('combinations: {}'.format(combinations))
         if target_value in combinations:
             return True
     return False
