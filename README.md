@@ -9,6 +9,7 @@ I know I understand.
 Each directory has a slightly different structure
 
 `exercism` is problems from [exercism.io](https://www.exercism.io)
+
 Exercism is great, it has a command line tool which neatly downloads 
 the tests and readmes into a folder. As such - the folder structure is 
 better.
@@ -23,6 +24,7 @@ better.
 ```
 
 `tl` is problems from [techseries.dev](https://www.techseries.dev/daily)
+
 These are copied and pasted from somewhere I don't quite remember. I don't 
 tend to do these often.
 ```
@@ -32,6 +34,7 @@ tend to do these often.
 ```
 
 `codewars` is problems from [codewars.com](https://www.codewars.com)
+
 These are copied and pasted from the website. This is more of a dumping 
 ground. Each solution contains a link to the kata. `kyu` is a measure 
 of difficulty used by the site. Smaller number is harder.
